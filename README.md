@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @pacfcporg
-- 👀 I’m interested in windows
-- 🌱 I’m currently learning windows
-- 💞️ I’m looking to collaborate on windows uefi
-- 📫 How to reach me windows
+i like put computers at limit
 
 <!---
 pacfcporg/pacfcporg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
